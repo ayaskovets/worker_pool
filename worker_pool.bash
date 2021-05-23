@@ -1,5 +1,12 @@
 #!/usr/local/bin/bash
 
+#
+# Copyright (c) 2020-present, Andrei Yaskovets
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+#
+
 declare -a _workers=( 1 2 3 4 5 )
 declare -a _jobs=( "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" )
 
